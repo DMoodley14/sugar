@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601955791975",
+    "project_id": "sugar-68809",
+    "storage_bucket": "sugar-68809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601955791975:android:93cde11214936c8c56d0c2",
+        "android_client_info": {
+          "package_name": "com.company.sugar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601955791975-39lo6nv3pscm4crjalpkv3io1ri3d5oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtuS6kmb1YwkddZqbWAEW9cUGyT4SJsZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601955791975-39lo6nv3pscm4crjalpkv3io1ri3d5oa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
